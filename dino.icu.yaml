@@ -349,6 +349,9 @@ chess: # by https://github.com/leecheeyong/chinese-chess
   ttl: 600
   type: CNAME
   value: cname.vercel-dns.com.
+chronicles: # creatorpoints.dev@gmail.com U0BQFSHAV9T
+- type: CNAME
+  value: cname.vercel-dns.com.
 cipher: # rupnil.mondal2+hackclub@gmail.com; Rupnil Codes, slack: U0A4UTULSLE
 - ttl: 600
   type: A
@@ -534,6 +537,9 @@ erdtree: # erdtree.dino.icu - contact @justhypex on discord for issues/enquiries
   values:
   - exchange: mail.vortex.skyfall.dev.
     preference: 500
+time-api.ereninki: # eren61794@gmail.com U0ASCU7PCAW
+- type: CNAME
+  value: ereninki.hackclub.app.
 evan:
   ttl: 600
   type: A
@@ -617,9 +623,6 @@ fullhouse: #niko@nikoo.dev U08SF8MVC82
 galaxybrain: # aaranysaini4@gmail.com U0B78MFGH9P
 - type: A
   value: 216.198.79.1
-gametale: # creatorpoints.dev@gmail.com U0BQFSHAV9T
-- type: CNAME
-  value: cname.vercel-dns.com.
 get: # sabhya.aggarwal@icloud.com U0A83DB0TRN
 - ttl: 600
   type: A
@@ -861,6 +864,9 @@ leo:
   ttl: 600
   type: CNAME
   value: wilkin.xyz.
+leosdns: # leolevd@leolevd.dev
+- type: A
+  value: 1.1.1.1
 levelzero: # @arjav0703 (gh) - ysws website
   ttl: 600
   type: A
@@ -987,6 +993,9 @@ monty: # contact via adelinmihai071@gmail.com
   ttl: 600
   type: CNAME
   value: cname.vercel-dns.com.
+mossy: # U0A3B4R6T9B
+- type: CNAME
+  value: website-iota-vert-28.vercel.app.
 motivation:
   ttl: 600
   type: CNAME
@@ -1459,6 +1468,9 @@ timetable: # devansh.awat@gmail.com https://github.com/Devansh-awat
 tn-search: # tyleruploads@yahoo.com
 - type: CNAME
   value: tn-search.pages.dev.
+tnchess: # tyleruploads@yahoo.com
+- type: CNAME
+  value: tnchess.pages.dev.
 toonnongaeoy:
 - ttl: 600
   type: CNAME
@@ -1615,6 +1627,15 @@ www: # mahad@hackclub.com (redirect to bare domain)
   ttl: 600
   type: CNAME
   value: xdonryt4em6uudcgsggr2va2.b.selfhosted.hackclub.com.
+xdvd: # U0A255XDA9H
+- type: CNAME
+  value: codeberg.page.
+_git-pages-forge-allowlist.xdvd: # U0A255XDA9H
+- type: TXT
+  value: "https://codeberg.org/xdvd/pages.git"
+_git-pages-repository.xdvd: # U0A255XDA9H
+- type: TXT
+  value: "https://codeberg.org/xdvd/pages.git"
 yahri-staging: # anson@hackclub.com
 - ttl: 600
   type: A
